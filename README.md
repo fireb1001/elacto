@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setups 
+https://cloudmaster.icu/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f?__cpo=aHR0cHM6Ly9tZWRpdW0uY29t
+
 ## Available Scripts
 
 In the project directory, you can run:
