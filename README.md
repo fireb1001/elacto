@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Setups 
 https://cloudmaster.icu/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f?__cpo=aHR0cHM6Ly9tZWRpdW0uY29t
 
+## MERN STACK
+https://www.youtube.com/watch?v=7CqJlxBYj-M
+https://github.com/beaucarnes/mern-exercise-tracker-mongodb/blob/master/src/components/exercises-list.component.js
+
 ## Available Scripts
 
 In the project directory, you can run:

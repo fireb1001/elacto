@@ -12,6 +12,9 @@
 /build
 /dist
 
+# backend
+/backend
+
 # misc
 .DS_Store
 .env.local
